@@ -38,7 +38,6 @@ A beautiful real-time interactive smoke effect built with openFrameworks. Click 
 |--------------------|-----------------------------------|
 | **Left Click**     | Create new colorful smoke         |
 | **Click + Drag**   | Continuously spray smoke          |
-| **Spacebar**       | Clear all smoke                   |
 | **GUI Panel**      | Adjust parameters in real-time    |
 
 ### GUI Parameters
