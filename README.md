@@ -48,3 +48,13 @@ A beautiful real-time interactive smoke effect built with openFrameworks. Click 
 - **Turbulence** — How chaotic/natural the smoke moves
 
 ## Project Structure
+src/
+├── main.cpp
+├── ofApp.h
+├── ofApp.cpp
+├── mover.hpp
+└── mover.cpp
+
+## Built For
+
+This project was created as a **Final Project** for a Nature of Code / Creative Coding course using openFrameworks.
